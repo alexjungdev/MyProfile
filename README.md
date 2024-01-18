@@ -3,9 +3,9 @@
 <br/>
 <br/>
 <h1>🔨Skill Tech</h1>
-<h2>Front-End</h2>
+<h3>Front-End</h3>
 <img src=https://skillicons.dev/icons?i=html,css,js,react,nextjs,wasm/>
-<h2>Cloud Service</h2>
+<h3>Cloud Service</h3>
 <img src=https://skillicons.dev/icons?i=cloudflare,azure,wasm/>
-<h2>Deployment</h2>
+<h3>Deployment</h3>
 <img src=https://skillicons.dev/icons?i=cloudflare,vercel,wasm/>
