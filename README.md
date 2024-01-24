@@ -6,7 +6,7 @@
 <br/>
 <h1>🔨Skill Tech</h1>
 <h3>Front-End</h3>
-<img src=https://skillicons.dev/icons?i=html,css,js,react,nextjs,wasm/>
+<img src=https://skillicons.dev/icons?i=html,css,js,react,nextjs,styledcomponents,wasm/>
 <h3>Cloud Service</h3>
 <img src=https://skillicons.dev/icons?i=cloudflare,azure,wasm/>
 <h3>Deployment</h3>
