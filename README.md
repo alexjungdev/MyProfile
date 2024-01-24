@@ -3,6 +3,8 @@
 <br/>
 기존의 리포지토리들이 너무 지저분하여서 앞으로 프로젝트들은 여기서 관리할 예정입니다!
 <br/>
+Other Github: 
+<br/>
 <br/>
 <h1>🔨Skill Tech</h1>
 <h3>Front-End</h3>
