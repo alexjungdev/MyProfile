@@ -15,5 +15,5 @@
 <h3>Deployment</h3>
 <img src=https://skillicons.dev/icons?i=cloudflare,vercel,wasm/>
 <h3>ETC</h3>
-<img src=https://skillicons.dev/icons?i=C#,git,wasm/>
+<img src=https://skillicons.dev/icons?i=cs,git,github,wasm/>
 
