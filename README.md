@@ -17,4 +17,4 @@
 <h3>ETC</h3>
 <img src=https://skillicons.dev/icons?i=unity,cs,wasm/>
 <h3>Tool</h3>
-<img src=https://skillicons.dev/icons?i=github,git,vscode,vscommunitywasm/>
+<img src=https://skillicons.dev/icons?i=github,git,vscode,visualstudio,wasm/>
