@@ -13,7 +13,7 @@
 <h3>Front-End</h3>
 <img src=https://skillicons.dev/icons?i=html,css,js,react,nextjs,styledcomponents,tailwind,wasm/>
 <h3>Cloud Service</h3>
-<img src=https://skillicons.dev/icons?i=cloudflare,azure,wasm/>
+<img src=https://skillicons.dev/icons?i=workers,azure,wasm/>
 <h3>Deployment</h3>
 <img src=https://skillicons.dev/icons?i=cloudflare,vercel,wasm/>
 <h3>ETC</h3>
