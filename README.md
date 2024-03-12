@@ -1,5 +1,5 @@
 <h1>👀About me</h1>
-App/Web Porjects
+App/Web Projects
 <p/>
 <p/>
 <h3>📖Dev Blog: https://alexjungdev.github.io/
